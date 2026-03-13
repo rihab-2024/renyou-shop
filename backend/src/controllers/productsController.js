@@ -1,6 +1,6 @@
 const Product = require("../models/Product");
 
-// GET list (pagination + filter)
+// GET list (with filter + pagination)
 exports.getProducts = async (req, res) => {
   try {
     const { page = 1, limit = 10, category, brand } = req.query;

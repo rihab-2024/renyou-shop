@@ -1,33 +1,25 @@
-import express from "express";
+const express = require("express");
+const cors = require("cors");
+const morgan = require("morgan");
+const authRoutes = require("./routes/authRoutes");
 
 const app = express();
-const PORT = 5000;
 
-// Exemple data produits
-const products = [
-  {
-    _id: "1",
-    name: "CeraVe Cleanser",
-    brand: "CeraVe",
-    price: 12.99,
-    category: "Cleanser",
-    image: "https://via.placeholder.com/150"
-  },
-  {
-    _id: "2",
-    name: "La Roche-Posay Sunscreen",
-    brand: "LRP",
-    price: 18.50,
-    category: "Sunscreen",
-    image: "https://via.placeholder.com/150"
-  }
-];
+// Middleware
+app.use(express.json()); // pour parser JSON
+app.use(cors());         // pour autoriser requêtes cross-origin
+app.use(morgan("dev"));  // pour logger les requêtes
 
-// Endpoint GET /api/products
-app.get("/api/products", (req, res) => {
-  res.json(products);
+// Routes
+app.use("/api/auth", authRoutes);
+
+// Test route
+app.get("/", (req, res) => {
+  res.send("Server is running...");
 });
 
+// Port
+const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log(`Backend running on http://localhost:${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });
