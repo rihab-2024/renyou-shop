@@ -1,22 +1,27 @@
-import js from '@eslint/js';
-import globals from 'globals';
-import reactPlugin from 'eslint-plugin-react';
 import babelParser from '@babel/eslint-parser';
+import reactPlugin from 'eslint-plugin-react';
 import prettierPlugin from 'eslint-plugin-prettier';
 
 export default [
   {
-    files: ['**/*.{js,jsx}'],
+    files: ['**/*.js', '**/*.jsx'],
     languageOptions: {
-      ecmaVersion: 'latest',
-      sourceType: 'module',
-      globals: globals.browser,
       parser: babelParser,
       parserOptions: {
         requireConfigFile: false,
+        ecmaVersion: 2021,
+        sourceType: 'module',
+        ecmaFeatures: {
+          jsx: true,
+        },
         babelOptions: {
           presets: ['@babel/preset-react'],
         },
+      },
+      globals: {
+        window: 'readonly',
+        document: 'readonly',
+        console: 'readonly',
       },
     },
     plugins: {
@@ -24,15 +29,8 @@ export default [
       prettier: prettierPlugin,
     },
     rules: {
-      ...js.configs.recommended.rules,
-      ...reactPlugin.configs.recommended.rules,
-      'react/react-in-jsx-scope': 'off',
       'prettier/prettier': 'error',
-    },
-    settings: {
-      react: {
-        version: 'detect',
-      },
+      'react/react-in-jsx-scope': 'off',
     },
   },
 ];
