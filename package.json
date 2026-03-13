@@ -8,6 +8,7 @@
     "dev": "concurrently \"npm run frontend\" \"npm run backend\""
   },
   "devDependencies": {
+<<<<<<< HEAD
     "concurrently": "^9.0.0",
     "eslint": "^9.39.4",
     "eslint-config-prettier": "^10.1.8",
@@ -15,3 +16,8 @@
     "prettier": "^3.8.1"
   }
 }
+=======
+    "concurrently": "^9.0.0"
+  }
+}
+>>>>>>> d3741c5c081a520ba7ae3a1d11d6f5b2248c9e32
