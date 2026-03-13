@@ -1,0 +1,51 @@
+name;brand;category;ingredients;skin_types;concerns
+CeraVe Hydrating Cleanser;CeraVe;Cleanser;"Ceramides; Hyaluronic Acid";"Dry;Normal";"Dryness;Sensitivity"
+CeraVe Foaming Cleanser;CeraVe;Cleanser;"Niacinamide; Ceramides";"Oily;Combination";"Acne;Oil Control"
+CeraVe Moisturizing Cream;CeraVe;Moisturizer;"Ceramides; Hyaluronic Acid";"Dry;Sensitive";"Dryness;Eczema"
+CeraVe Sunscreen SPF 50;CeraVe;Sunscreen;"Zinc Oxide; Titanium Dioxide";"Sensitive;Normal";"Sun Protection;Sensitivity"
+CeraVe Resurfacing Retinol Serum;CeraVe;Serum;"Retinol; Niacinamide";"Oily;Combination";"Acne;Dark Spots"
+La Roche-Posay Anthelios Sunscreen;La Roche-Posay;Sunscreen;"Mexoryl SX; Thermal Water";"Oily;Combination";"Sun Protection;Acne"
+La Roche-Posay Effaclar Duo+;La Roche-Posay;Serum;"Niacinamide; Salicylic Acid";"Oily;Combination";"Acne;Dark Spots"
+La Roche-Posay Toleriane Moisturizer;La Roche-Posay;Moisturizer;"Ceramides; Glycerin";"Sensitive;Dry";"Sensitivity;Dryness"
+La Roche-Posay Micellar Water;La Roche-Posay;Cleanser;"Micelles; Thermal Water";"Normal;Sensitive";Gentle Cleansing
+La Roche-Posay Hyalu B5 Serum;La Roche-Posay;Serum;"Hyaluronic Acid; Vitamin B5";"Dry;Normal";"Wrinkles;Dryness"
+The Ordinary Niacinamide 10%;The Ordinary;Serum;"Niacinamide; Zinc";"Oily;Combination";"Acne;Oil Control"
+The Ordinary Hyaluronic Acid 2%;The Ordinary;Serum;"Hyaluronic Acid; Vitamin B5";"Dry;Normal";"Dryness;Wrinkles"
+The Ordinary Retinol 1%;The Ordinary;Serum;"Retinol; Squalane";"Normal;Combination";"Wrinkles;Dark Spots"
+The Ordinary Vitamin C Suspension;The Ordinary;Serum;"Vitamin C; Hyaluronic Acid";"Normal;Dry";"Dark Spots;Dullness"
+The Ordinary Glycolic Acid Toner;The Ordinary;Cleanser;"Glycolic Acid; Aloe Vera";"Oily;Combination";"Acne;Texture"
+Neutrogena Hydro Boost Gel;Neutrogena;Moisturizer;"Hyaluronic Acid; Glycerin";"Dry;Normal";"Dryness;Wrinkles"
+Neutrogena Oil-Free Acne Wash;Neutrogena;Cleanser;"Salicylic Acid; Aloe Vera";"Oily;Combination";"Acne;Oil Control"
+Neutrogena Sheer Sunscreen SPF 50;Neutrogena;Sunscreen;"Avobenzone; Oxybenzone";"Normal;Combination";Sun Protection
+Neutrogena Rapid Wrinkle Repair;Neutrogena;Serum;"Retinol; Hyaluronic Acid";"Normal;Dry";"Wrinkles;Dark Spots"
+Neutrogena Makeup Remover Wipes;Neutrogena;Cleanser;"Micelles; Aloe Vera";"Normal;Sensitive";Gentle Cleansing
+Eucerin Q10 Anti-Wrinkle Cream;Eucerin;Moisturizer;"Coenzyme Q10; Vitamin E";"Dry;Normal";"Wrinkles;Dryness"
+Eucerin Hyaluron-Filler Serum;Eucerin;Serum;"Hyaluronic Acid; Saponin";"Dry;Normal";"Wrinkles;Dryness"
+Eucerin Sun Fluid SPF 50;Eucerin;Sunscreen;"Tinosorb S; Licochalcone A";"Normal;Combination";Sun Protection
+Eucerin DermatoClean Micellar;Eucerin;Cleanser;"Micelles; Glycerin";"Sensitive;Normal";Gentle Cleansing
+Eucerin UreaRepair Lotion;Eucerin;Moisturizer;"Urea; Ceramides";"Dry;Sensitive";"Dryness;Eczema"
+Clinique Dramatically Different Lotion;Clinique;Moisturizer;"Glycerin; Hyaluronic Acid";"Normal;Dry";"Dryness;Wrinkles"
+Clinique Take The Day Off Balm;Clinique;Cleanser;"Safflower Oil; Vitamin E";"Normal;Sensitive";Gentle Cleansing
+Clinique Moisture Surge Gel;Clinique;Moisturizer;"Aloe Vera; Hyaluronic Acid";"Dry;Normal";"Dryness;Wrinkles"
+Clinique Smart Repair Serum;Clinique;Serum;"Peptides; Vitamin C";"Normal;Combination";"Wrinkles;Dark Spots"
+Clinique Superdefense Sunscreen SPF 40;Clinique;Sunscreen;"Avobenzone; Octocrylene";"Normal;Combination";Sun Protection
+Bioderma Sensibio H2O;Bioderma;Cleanser;"Micelles; Glycerin";"Sensitive;Normal";Gentle Cleansing
+Bioderma Atoderm Cream;Bioderma;Moisturizer;"Glycerin; Mineral Oil";"Dry;Sensitive";"Dryness;Eczema"
+Bioderma Photoderm Sunscreen SPF 50;Bioderma;Sunscreen;"Tinosorb M; Vitamin E";"Normal;Combination";Sun Protection
+Bioderma Sebium Gel;Bioderma;Cleanser;"Zinc; Salicylic Acid";"Oily;Combination";"Acne;Oil Control"
+Bioderma Hydrabio Serum;Bioderma;Serum;"Aquagenium; Glycerin";"Dry;Normal";"Dryness;Wrinkles"
+Nivea Soft Cream;Nivea;Moisturizer;"Jojoba Oil; Vitamin E";"Normal;Dry";"Dryness;Wrinkles"
+Nivea MicellAIR Water;Nivea;Cleanser;"Micelles; Aloe Vera";"Normal;Sensitive";Gentle Cleansing
+Nivea Sun Protect SPF 50;Nivea;Sunscreen;"Avobenzone; Octocrylene";"Normal;Combination";Sun Protection
+Nivea Q10 Power Serum;Nivea;Serum;"Coenzyme Q10; Creatine";"Normal;Dry";"Wrinkles;Dark Spots"
+Nivea Refreshing Toner;Nivea;Cleanser;"Vitamin E; Aloe Vera";"Normal;Combination";Gentle Cleansing
+Olay Regenerist Cream;Olay;Moisturizer;"Niacinamide; Peptides";"Normal;Dry";"Wrinkles;Dark Spots"
+Olay Total Effects Serum;Olay;Serum;"Vitamin C; Niacinamide";"Normal;Combination";"Wrinkles;Dark Spots"
+Olay Complete Sunscreen SPF 30;Olay;Sunscreen;"Avobenzone; Octocrylene";"Normal;Combination";Sun Protection
+Olay Gentle Cleanser;Olay;Cleanser;"Aloe Vera; Glycerin";"Sensitive;Normal";Gentle Cleansing
+Olay Retinol24 Night Serum;Olay;Serum;"Retinol; Niacinamide";"Normal;Combination";"Wrinkles;Dark Spots"
+Garnier Micellar Water;Garnier;Cleanser;"Micelles; Rose Water";"Normal;Sensitive";Gentle Cleansing
+Garnier Vitamin C Serum;Garnier;Serum;"Vitamin C; Niacinamide";"Normal;Combination";"Dark Spots;Dullness"
+Garnier Hydra Bomb Cream;Garnier;Moisturizer;"Hyaluronic Acid; Aloe Vera";"Dry;Normal";"Dryness;Wrinkles"
+Garnier Ambre Solaire Sunscreen;Garnier;Sunscreen;"Avobenzone; Octocrylene";"Normal;Combination";Sun Protection
+Garnier Pure Active Gel;Garnier;Cleanser;"Salicylic Acid; Zinc";"Oily;Combination";"Acne;Oil Control"

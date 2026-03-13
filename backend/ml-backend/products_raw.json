@@ -1,0 +1,152 @@
+[
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"CeraVe Hydrating Cleanser;CeraVe;Cleanser;\"Ceramides; Hyaluronic Acid\";\"Dry;Normal\";\"Dryness;Sensitivity\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"CeraVe Foaming Cleanser;CeraVe;Cleanser;\"Niacinamide; Ceramides\";\"Oily;Combination\";\"Acne;Oil Control\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"CeraVe Moisturizing Cream;CeraVe;Moisturizer;\"Ceramides; Hyaluronic Acid\";\"Dry;Sensitive\";\"Dryness;Eczema\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"CeraVe Sunscreen SPF 50;CeraVe;Sunscreen;\"Zinc Oxide; Titanium Dioxide\";\"Sensitive;Normal\";\"Sun Protection;Sensitivity\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"CeraVe Resurfacing Retinol Serum;CeraVe;Serum;\"Retinol; Niacinamide\";\"Oily;Combination\";\"Acne;Dark Spots\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"La Roche-Posay Anthelios Sunscreen;La Roche-Posay;Sunscreen;\"Mexoryl SX; Thermal Water\";\"Oily;Combination\";\"Sun Protection;Acne\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"La Roche-Posay Effaclar Duo+;La Roche-Posay;Serum;\"Niacinamide; Salicylic Acid\";\"Oily;Combination\";\"Acne;Dark Spots\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"La Roche-Posay Toleriane Moisturizer;La Roche-Posay;Moisturizer;\"Ceramides; Glycerin\";\"Sensitive;Dry\";\"Sensitivity;Dryness\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"La Roche-Posay Micellar Water;La Roche-Posay;Cleanser;\"Micelles; Thermal Water\";\"Normal;Sensitive\";Gentle Cleansing"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"La Roche-Posay Hyalu B5 Serum;La Roche-Posay;Serum;\"Hyaluronic Acid; Vitamin B5\";\"Dry;Normal\";\"Wrinkles;Dryness\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"The Ordinary Niacinamide 10%;The Ordinary;Serum;\"Niacinamide; Zinc\";\"Oily;Combination\";\"Acne;Oil Control\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"The Ordinary Hyaluronic Acid 2%;The Ordinary;Serum;\"Hyaluronic Acid; Vitamin B5\";\"Dry;Normal\";\"Dryness;Wrinkles\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"The Ordinary Retinol 1%;The Ordinary;Serum;\"Retinol; Squalane\";\"Normal;Combination\";\"Wrinkles;Dark Spots\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"The Ordinary Vitamin C Suspension;The Ordinary;Serum;\"Vitamin C; Hyaluronic Acid\";\"Normal;Dry\";\"Dark Spots;Dullness\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"The Ordinary Glycolic Acid Toner;The Ordinary;Cleanser;\"Glycolic Acid; Aloe Vera\";\"Oily;Combination\";\"Acne;Texture\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Neutrogena Hydro Boost Gel;Neutrogena;Moisturizer;\"Hyaluronic Acid; Glycerin\";\"Dry;Normal\";\"Dryness;Wrinkles\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Neutrogena Oil-Free Acne Wash;Neutrogena;Cleanser;\"Salicylic Acid; Aloe Vera\";\"Oily;Combination\";\"Acne;Oil Control\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Neutrogena Sheer Sunscreen SPF 50;Neutrogena;Sunscreen;\"Avobenzone; Oxybenzone\";\"Normal;Combination\";Sun Protection"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Neutrogena Rapid Wrinkle Repair;Neutrogena;Serum;\"Retinol; Hyaluronic Acid\";\"Normal;Dry\";\"Wrinkles;Dark Spots\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Neutrogena Makeup Remover Wipes;Neutrogena;Cleanser;\"Micelles; Aloe Vera\";\"Normal;Sensitive\";Gentle Cleansing"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Eucerin Q10 Anti-Wrinkle Cream;Eucerin;Moisturizer;\"Coenzyme Q10; Vitamin E\";\"Dry;Normal\";\"Wrinkles;Dryness\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Eucerin Hyaluron-Filler Serum;Eucerin;Serum;\"Hyaluronic Acid; Saponin\";\"Dry;Normal\";\"Wrinkles;Dryness\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Eucerin Sun Fluid SPF 50;Eucerin;Sunscreen;\"Tinosorb S; Licochalcone A\";\"Normal;Combination\";Sun Protection"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Eucerin DermatoClean Micellar;Eucerin;Cleanser;\"Micelles; Glycerin\";\"Sensitive;Normal\";Gentle Cleansing"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Eucerin UreaRepair Lotion;Eucerin;Moisturizer;\"Urea; Ceramides\";\"Dry;Sensitive\";\"Dryness;Eczema\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Clinique Dramatically Different Lotion;Clinique;Moisturizer;\"Glycerin; Hyaluronic Acid\";\"Normal;Dry\";\"Dryness;Wrinkles\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Clinique Take The Day Off Balm;Clinique;Cleanser;\"Safflower Oil; Vitamin E\";\"Normal;Sensitive\";Gentle Cleansing"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Clinique Moisture Surge Gel;Clinique;Moisturizer;\"Aloe Vera; Hyaluronic Acid\";\"Dry;Normal\";\"Dryness;Wrinkles\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Clinique Smart Repair Serum;Clinique;Serum;\"Peptides; Vitamin C\";\"Normal;Combination\";\"Wrinkles;Dark Spots\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Clinique Superdefense Sunscreen SPF 40;Clinique;Sunscreen;\"Avobenzone; Octocrylene\";\"Normal;Combination\";Sun Protection"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Bioderma Sensibio H2O;Bioderma;Cleanser;\"Micelles; Glycerin\";\"Sensitive;Normal\";Gentle Cleansing"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Bioderma Atoderm Cream;Bioderma;Moisturizer;\"Glycerin; Mineral Oil\";\"Dry;Sensitive\";\"Dryness;Eczema\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Bioderma Photoderm Sunscreen SPF 50;Bioderma;Sunscreen;\"Tinosorb M; Vitamin E\";\"Normal;Combination\";Sun Protection"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Bioderma Sebium Gel;Bioderma;Cleanser;\"Zinc; Salicylic Acid\";\"Oily;Combination\";\"Acne;Oil Control\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Bioderma Hydrabio Serum;Bioderma;Serum;\"Aquagenium; Glycerin\";\"Dry;Normal\";\"Dryness;Wrinkles\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Nivea Soft Cream;Nivea;Moisturizer;\"Jojoba Oil; Vitamin E\";\"Normal;Dry\";\"Dryness;Wrinkles\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Nivea MicellAIR Water;Nivea;Cleanser;\"Micelles; Aloe Vera\";\"Normal;Sensitive\";Gentle Cleansing"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Nivea Sun Protect SPF 50;Nivea;Sunscreen;\"Avobenzone; Octocrylene\";\"Normal;Combination\";Sun Protection"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Nivea Q10 Power Serum;Nivea;Serum;\"Coenzyme Q10; Creatine\";\"Normal;Dry\";\"Wrinkles;Dark Spots\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Nivea Refreshing Toner;Nivea;Cleanser;\"Vitamin E; Aloe Vera\";\"Normal;Combination\";Gentle Cleansing"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Olay Regenerist Cream;Olay;Moisturizer;\"Niacinamide; Peptides\";\"Normal;Dry\";\"Wrinkles;Dark Spots\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Olay Total Effects Serum;Olay;Serum;\"Vitamin C; Niacinamide\";\"Normal;Combination\";\"Wrinkles;Dark Spots\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Olay Complete Sunscreen SPF 30;Olay;Sunscreen;\"Avobenzone; Octocrylene\";\"Normal;Combination\";Sun Protection"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Olay Gentle Cleanser;Olay;Cleanser;\"Aloe Vera; Glycerin\";\"Sensitive;Normal\";Gentle Cleansing"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Olay Retinol24 Night Serum;Olay;Serum;\"Retinol; Niacinamide\";\"Normal;Combination\";\"Wrinkles;Dark Spots\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Garnier Micellar Water;Garnier;Cleanser;\"Micelles; Rose Water\";\"Normal;Sensitive\";Gentle Cleansing"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Garnier Vitamin C Serum;Garnier;Serum;\"Vitamin C; Niacinamide\";\"Normal;Combination\";\"Dark Spots;Dullness\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Garnier Hydra Bomb Cream;Garnier;Moisturizer;\"Hyaluronic Acid; Aloe Vera\";\"Dry;Normal\";\"Dryness;Wrinkles\""
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Garnier Ambre Solaire Sunscreen;Garnier;Sunscreen;\"Avobenzone; Octocrylene\";\"Normal;Combination\";Sun Protection"
+  },
+  {
+    "name;brand;category;ingredients;skin_types;concerns":"Garnier Pure Active Gel;Garnier;Cleanser;\"Salicylic Acid; Zinc\";\"Oily;Combination\";\"Acne;Oil Control\""
+  }
+]

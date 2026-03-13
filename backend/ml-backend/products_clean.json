@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Cerave Hydrating Cleanser",
+    "brand": "Cerave",
+    "category": "Cleanser",
+    "ingredients": [
+      "Ceramides"
+    ],
+    "skin_types": [
+      "Hyaluronic Acid"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Cerave Foaming Cleanser",
+    "brand": "Cerave",
+    "category": "Cleanser",
+    "ingredients": [
+      "Niacinamide"
+    ],
+    "skin_types": [
+      "Ceramides"
+    ],
+    "concerns": [
+      "Oily"
+    ]
+  },
+  {
+    "name": "Cerave Moisturizing Cream",
+    "brand": "Cerave",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Ceramides"
+    ],
+    "skin_types": [
+      "Hyaluronic Acid"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Cerave Sunscreen Spf 50",
+    "brand": "Cerave",
+    "category": "Sunscreen",
+    "ingredients": [
+      "Zinc Oxide"
+    ],
+    "skin_types": [
+      "Titanium Dioxide"
+    ],
+    "concerns": [
+      "Sensitive"
+    ]
+  },
+  {
+    "name": "Cerave Resurfacing Retinol Serum",
+    "brand": "Cerave",
+    "category": "Serum",
+    "ingredients": [
+      "Retinol"
+    ],
+    "skin_types": [
+      "Niacinamide"
+    ],
+    "concerns": [
+      "Oily"
+    ]
+  },
+  {
+    "name": "La Roche-Posay Anthelios Sunscreen",
+    "brand": "La Roche-Posay",
+    "category": "Sunscreen",
+    "ingredients": [
+      "Mexoryl Sx"
+    ],
+    "skin_types": [
+      "Thermal Water"
+    ],
+    "concerns": [
+      "Oily"
+    ]
+  },
+  {
+    "name": "La Roche-Posay Effaclar Duo+",
+    "brand": "La Roche-Posay",
+    "category": "Serum",
+    "ingredients": [
+      "Niacinamide"
+    ],
+    "skin_types": [
+      "Salicylic Acid"
+    ],
+    "concerns": [
+      "Oily"
+    ]
+  },
+  {
+    "name": "La Roche-Posay Toleriane Moisturizer",
+    "brand": "La Roche-Posay",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Ceramides"
+    ],
+    "skin_types": [
+      "Glycerin"
+    ],
+    "concerns": [
+      "Sensitive"
+    ]
+  },
+  {
+    "name": "La Roche-Posay Micellar Water",
+    "brand": "La Roche-Posay",
+    "category": "Cleanser",
+    "ingredients": [
+      "Micelles"
+    ],
+    "skin_types": [
+      "Thermal Water"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "La Roche-Posay Hyalu B5 Serum",
+    "brand": "La Roche-Posay",
+    "category": "Serum",
+    "ingredients": [
+      "Hyaluronic Acid"
+    ],
+    "skin_types": [
+      "Vitamin B5"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "The Ordinary Niacinamide 10%",
+    "brand": "The Ordinary",
+    "category": "Serum",
+    "ingredients": [
+      "Niacinamide"
+    ],
+    "skin_types": [
+      "Zinc"
+    ],
+    "concerns": [
+      "Oily"
+    ]
+  },
+  {
+    "name": "The Ordinary Hyaluronic Acid 2%",
+    "brand": "The Ordinary",
+    "category": "Serum",
+    "ingredients": [
+      "Hyaluronic Acid"
+    ],
+    "skin_types": [
+      "Vitamin B5"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "The Ordinary Retinol 1%",
+    "brand": "The Ordinary",
+    "category": "Serum",
+    "ingredients": [
+      "Retinol"
+    ],
+    "skin_types": [
+      "Squalane"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "The Ordinary Vitamin C Suspension",
+    "brand": "The Ordinary",
+    "category": "Serum",
+    "ingredients": [
+      "Vitamin C"
+    ],
+    "skin_types": [
+      "Hyaluronic Acid"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "The Ordinary Glycolic Acid Toner",
+    "brand": "The Ordinary",
+    "category": "Cleanser",
+    "ingredients": [
+      "Glycolic Acid"
+    ],
+    "skin_types": [
+      "Aloe Vera"
+    ],
+    "concerns": [
+      "Oily"
+    ]
+  },
+  {
+    "name": "Neutrogena Hydro Boost Gel",
+    "brand": "Neutrogena",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Hyaluronic Acid"
+    ],
+    "skin_types": [
+      "Glycerin"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Neutrogena Oil-Free Acne Wash",
+    "brand": "Neutrogena",
+    "category": "Cleanser",
+    "ingredients": [
+      "Salicylic Acid"
+    ],
+    "skin_types": [
+      "Aloe Vera"
+    ],
+    "concerns": [
+      "Oily"
+    ]
+  },
+  {
+    "name": "Neutrogena Sheer Sunscreen Spf 50",
+    "brand": "Neutrogena",
+    "category": "Sunscreen",
+    "ingredients": [
+      "Avobenzone"
+    ],
+    "skin_types": [
+      "Oxybenzone"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Neutrogena Rapid Wrinkle Repair",
+    "brand": "Neutrogena",
+    "category": "Serum",
+    "ingredients": [
+      "Retinol"
+    ],
+    "skin_types": [
+      "Hyaluronic Acid"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Neutrogena Makeup Remover Wipes",
+    "brand": "Neutrogena",
+    "category": "Cleanser",
+    "ingredients": [
+      "Micelles"
+    ],
+    "skin_types": [
+      "Aloe Vera"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Eucerin Q10 Anti-Wrinkle Cream",
+    "brand": "Eucerin",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Coenzyme Q10"
+    ],
+    "skin_types": [
+      "Vitamin E"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Eucerin Hyaluron-Filler Serum",
+    "brand": "Eucerin",
+    "category": "Serum",
+    "ingredients": [
+      "Hyaluronic Acid"
+    ],
+    "skin_types": [
+      "Saponin"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Eucerin Sun Fluid Spf 50",
+    "brand": "Eucerin",
+    "category": "Sunscreen",
+    "ingredients": [
+      "Tinosorb S"
+    ],
+    "skin_types": [
+      "Licochalcone A"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Eucerin Dermatoclean Micellar",
+    "brand": "Eucerin",
+    "category": "Cleanser",
+    "ingredients": [
+      "Micelles"
+    ],
+    "skin_types": [
+      "Glycerin"
+    ],
+    "concerns": [
+      "Sensitive"
+    ]
+  },
+  {
+    "name": "Eucerin Urearepair Lotion",
+    "brand": "Eucerin",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Urea"
+    ],
+    "skin_types": [
+      "Ceramides"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Clinique Dramatically Different Lotion",
+    "brand": "Clinique",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Glycerin"
+    ],
+    "skin_types": [
+      "Hyaluronic Acid"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Clinique Take The Day Off Balm",
+    "brand": "Clinique",
+    "category": "Cleanser",
+    "ingredients": [
+      "Safflower Oil"
+    ],
+    "skin_types": [
+      "Vitamin E"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Clinique Moisture Surge Gel",
+    "brand": "Clinique",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Aloe Vera"
+    ],
+    "skin_types": [
+      "Hyaluronic Acid"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Clinique Smart Repair Serum",
+    "brand": "Clinique",
+    "category": "Serum",
+    "ingredients": [
+      "Peptides"
+    ],
+    "skin_types": [
+      "Vitamin C"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Clinique Superdefense Sunscreen Spf 40",
+    "brand": "Clinique",
+    "category": "Sunscreen",
+    "ingredients": [
+      "Avobenzone"
+    ],
+    "skin_types": [
+      "Octocrylene"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Bioderma Sensibio H2O",
+    "brand": "Bioderma",
+    "category": "Cleanser",
+    "ingredients": [
+      "Micelles"
+    ],
+    "skin_types": [
+      "Glycerin"
+    ],
+    "concerns": [
+      "Sensitive"
+    ]
+  },
+  {
+    "name": "Bioderma Atoderm Cream",
+    "brand": "Bioderma",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Glycerin"
+    ],
+    "skin_types": [
+      "Mineral Oil"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Bioderma Photoderm Sunscreen Spf 50",
+    "brand": "Bioderma",
+    "category": "Sunscreen",
+    "ingredients": [
+      "Tinosorb M"
+    ],
+    "skin_types": [
+      "Vitamin E"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Bioderma Sebium Gel",
+    "brand": "Bioderma",
+    "category": "Cleanser",
+    "ingredients": [
+      "Zinc"
+    ],
+    "skin_types": [
+      "Salicylic Acid"
+    ],
+    "concerns": [
+      "Oily"
+    ]
+  },
+  {
+    "name": "Bioderma Hydrabio Serum",
+    "brand": "Bioderma",
+    "category": "Serum",
+    "ingredients": [
+      "Aquagenium"
+    ],
+    "skin_types": [
+      "Glycerin"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Nivea Soft Cream",
+    "brand": "Nivea",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Jojoba Oil"
+    ],
+    "skin_types": [
+      "Vitamin E"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Nivea Micellair Water",
+    "brand": "Nivea",
+    "category": "Cleanser",
+    "ingredients": [
+      "Micelles"
+    ],
+    "skin_types": [
+      "Aloe Vera"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Nivea Sun Protect Spf 50",
+    "brand": "Nivea",
+    "category": "Sunscreen",
+    "ingredients": [
+      "Avobenzone"
+    ],
+    "skin_types": [
+      "Octocrylene"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Nivea Q10 Power Serum",
+    "brand": "Nivea",
+    "category": "Serum",
+    "ingredients": [
+      "Coenzyme Q10"
+    ],
+    "skin_types": [
+      "Creatine"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Nivea Refreshing Toner",
+    "brand": "Nivea",
+    "category": "Cleanser",
+    "ingredients": [
+      "Vitamin E"
+    ],
+    "skin_types": [
+      "Aloe Vera"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Olay Regenerist Cream",
+    "brand": "Olay",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Niacinamide"
+    ],
+    "skin_types": [
+      "Peptides"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Olay Total Effects Serum",
+    "brand": "Olay",
+    "category": "Serum",
+    "ingredients": [
+      "Vitamin C"
+    ],
+    "skin_types": [
+      "Niacinamide"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Olay Complete Sunscreen Spf 30",
+    "brand": "Olay",
+    "category": "Sunscreen",
+    "ingredients": [
+      "Avobenzone"
+    ],
+    "skin_types": [
+      "Octocrylene"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Olay Gentle Cleanser",
+    "brand": "Olay",
+    "category": "Cleanser",
+    "ingredients": [
+      "Aloe Vera"
+    ],
+    "skin_types": [
+      "Glycerin"
+    ],
+    "concerns": [
+      "Sensitive"
+    ]
+  },
+  {
+    "name": "Olay Retinol24 Night Serum",
+    "brand": "Olay",
+    "category": "Serum",
+    "ingredients": [
+      "Retinol"
+    ],
+    "skin_types": [
+      "Niacinamide"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Garnier Micellar Water",
+    "brand": "Garnier",
+    "category": "Cleanser",
+    "ingredients": [
+      "Micelles"
+    ],
+    "skin_types": [
+      "Rose Water"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Garnier Vitamin C Serum",
+    "brand": "Garnier",
+    "category": "Serum",
+    "ingredients": [
+      "Vitamin C"
+    ],
+    "skin_types": [
+      "Niacinamide"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Garnier Hydra Bomb Cream",
+    "brand": "Garnier",
+    "category": "Moisturizer",
+    "ingredients": [
+      "Hyaluronic Acid"
+    ],
+    "skin_types": [
+      "Aloe Vera"
+    ],
+    "concerns": [
+      "Dry"
+    ]
+  },
+  {
+    "name": "Garnier Ambre Solaire Sunscreen",
+    "brand": "Garnier",
+    "category": "Sunscreen",
+    "ingredients": [
+      "Avobenzone"
+    ],
+    "skin_types": [
+      "Octocrylene"
+    ],
+    "concerns": [
+      "Normal"
+    ]
+  },
+  {
+    "name": "Garnier Pure Active Gel",
+    "brand": "Garnier",
+    "category": "Cleanser",
+    "ingredients": [
+      "Salicylic Acid"
+    ],
+    "skin_types": [
+      "Zinc"
+    ],
+    "concerns": [
+      "Oily"
+    ]
+  }
+]
